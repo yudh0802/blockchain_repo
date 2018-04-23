@@ -14,3 +14,7 @@ end
 get '/try1' do
 	'<h1>say YES!!</h1>'
 end
+
+get '/try2' do 
+	'it's 10O'clock'
+end
