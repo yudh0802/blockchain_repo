@@ -18,3 +18,7 @@ end
 get '/try2' do 
 	'it's 10O'clock'
 end
+
+get '/try3' do 
+	'it's 11O'clock'
+end
