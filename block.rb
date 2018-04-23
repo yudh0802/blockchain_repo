@@ -7,5 +7,8 @@ attr_reader :chain, :transactions
 
 #ttr_reader 는 바꿀 수 없는 요소. 전체 시스템 안에 저 두가지를 넣겠다라고 선언하는 것
 
-
 end
+
+aaaaa = BlockChain.new
+
+puts aaaaa
