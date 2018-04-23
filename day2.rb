@@ -16,9 +16,9 @@ get '/try1' do
 end
 
 get '/try2' do 
-	'it's 10O'clock'
+	'its 10Oclock'
 end
 
 get '/try3' do 
-	'it's 11O'clock'
+	'its 11Oclock'
 end
